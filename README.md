@@ -10,12 +10,12 @@ How to use this:
 
 3 ) go to `app.js` and the const Images area.
     Add your images with the IDs u used in the <img>'s
-    Example: 
-        `const images = [
+    //Example: 
+        const images = [
             img1 = { id: "img1" },
             ^          ^
             ^          The value of this should be the ID of your <img>
             This is just a variable with the name img1
 
             // Repeat for all Images u have
-        ];`
+        ];
