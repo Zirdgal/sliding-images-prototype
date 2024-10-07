@@ -19,3 +19,6 @@ How to use this:
 
             // Repeat for all Images u have
         ];
+
+
+Example page: https://zirdgal.github.io/sliding-images-prototype
